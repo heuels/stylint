@@ -1,3 +1,7 @@
+### 1.5.10
+
+do not force exiting the process when not in watch mode
+
 ### 1.5.9
 
 remove unused entry `dir` from `cache`
